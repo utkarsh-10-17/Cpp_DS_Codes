@@ -1,0 +1,5 @@
+# requirements.txt
+
+C++ compiler (GCC/G++ 9+, Clang, or MSVC)
+(Optional) VS Code / CLion / Code::Blocks IDE
+(Optional) CMake (if building larger projects)
