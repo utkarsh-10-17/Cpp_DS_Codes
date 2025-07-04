@@ -1,0 +1,7 @@
+
+Customer ID-23
+Name-dfsa
+Age-34
+Mobile No-324421
+Address-fdge
+Gendermale
